@@ -1,3 +1,5 @@
+> ⚠️ **Archived repo since this isn't necessary anymore with Citrixk Workspace...**
+
 # README
 
 Simple script to install HDX RealTime Media Engine by extracting the delivered deb package.
